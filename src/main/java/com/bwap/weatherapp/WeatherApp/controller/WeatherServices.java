@@ -19,7 +19,7 @@ public class WeatherServices {
 	    
 		private String cityName;
 	    private String unit;
-	    private String APIkey = "7fb9c6c8cfb76a355f38568667abc903";
+	    private String APIkey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //replace xxx by your api key
 	    
 	    public JSONObject getWeather()
 	    {
